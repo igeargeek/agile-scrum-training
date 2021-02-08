@@ -263,6 +263,17 @@ a set of **Values** and **Principles**
 
 ---
 
+# Checkpoint
+
+- [x] SDLCs
+- [x] Flip coin game
+- [x] Traditional vs Agile
+- [x] Agile
+- [ ] Heart of Agile
+- [ ] Modern Agile
+
+---
+
 ### Heart of Agile
 
 ![Image](images/heart-of-agile-01.png)
